@@ -9630,4 +9630,2020 @@
       "data": "2020-04-15 10:44:52.523737"
     }
   ]
+},{
+  "info": [
+    {
+      "path": "/admin/logout/",
+      "execution_time": 0.13,
+      "data": "2020-04-15 13:39:19.723271"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.281,
+      "data": "2020-04-15 13:39:20.012159"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.105,
+      "data": "2020-04-15 13:39:21.560256"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/13/change/",
+      "execution_time": 0.002,
+      "data": "2020-04-15 13:39:29.569197"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/login/",
+      "execution_time": 0.097,
+      "data": "2020-04-15 13:39:29.672091"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.009,
+      "data": "2020-04-15 13:39:34.717254"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.116,
+      "data": "2020-04-15 13:39:35.769879"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.008,
+      "data": "2020-04-15 13:39:37.131620"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/login/",
+      "execution_time": 0.242,
+      "data": "2020-04-15 13:40:19.485285"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/13/change/",
+      "execution_time": 0.294,
+      "data": "2020-04-15 13:40:19.825975"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.01,
+      "data": "2020-04-15 13:40:19.893661"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/13/change/",
+      "execution_time": 0.128,
+      "data": "2020-04-15 13:40:55.905667"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.012,
+      "data": "2020-04-15 13:40:55.963353"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/13/change/",
+      "execution_time": 0.079,
+      "data": "2020-04-15 13:47:45.588108"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/13/change/",
+      "execution_time": 0.122,
+      "data": "2020-04-15 13:47:45.720165"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.014,
+      "data": "2020-04-15 13:47:45.823399"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/",
+      "execution_time": 0.396,
+      "data": "2020-04-15 14:16:27.666588"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.012,
+      "data": "2020-04-15 14:16:27.725562"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/13/change/",
+      "execution_time": 0.107,
+      "data": "2020-04-15 14:16:29.699620"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.012,
+      "data": "2020-04-15 14:16:29.748073"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/13/change/",
+      "execution_time": 317.045,
+      "data": "2020-04-15 14:21:52.605043"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/13/change/",
+      "execution_time": 4.858,
+      "data": "2020-04-15 14:21:59.882477"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/",
+      "execution_time": 0.076,
+      "data": "2020-04-15 14:22:06.300538"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/",
+      "execution_time": 0.053,
+      "data": "2020-04-15 14:22:08.365609"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.012,
+      "data": "2020-04-15 14:22:08.416702"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/13/change/",
+      "execution_time": 0.101,
+      "data": "2020-04-15 14:22:11.536036"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.012,
+      "data": "2020-04-15 14:22:11.595463"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/",
+      "execution_time": 0.04,
+      "data": "2020-04-15 14:30:42.865270"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/",
+      "execution_time": 0.058,
+      "data": "2020-04-15 14:30:45.132883"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.012,
+      "data": "2020-04-15 14:30:45.187454"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/13/change/",
+      "execution_time": 0.113,
+      "data": "2020-04-15 14:30:47.063427"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.012,
+      "data": "2020-04-15 14:30:47.115996"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/",
+      "execution_time": 0.075,
+      "data": "2020-04-15 14:43:56.511941"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.016,
+      "data": "2020-04-15 14:43:56.588609"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/12/change/",
+      "execution_time": 0.112,
+      "data": "2020-04-15 14:43:58.905762"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.011,
+      "data": "2020-04-15 14:43:58.960911"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/",
+      "execution_time": 0.07,
+      "data": "2020-04-15 14:53:16.616907"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.013,
+      "data": "2020-04-15 14:53:16.685811"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/",
+      "execution_time": 0.074,
+      "data": "2020-04-15 15:20:44.050271"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.013,
+      "data": "2020-04-15 15:20:44.105197"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/13/change/",
+      "execution_time": 0.11,
+      "data": "2020-04-15 15:20:45.909618"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.01,
+      "data": "2020-04-15 15:20:45.964006"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/13/change/",
+      "execution_time": 0.106,
+      "data": "2020-04-15 15:20:52.414433"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/13/change/",
+      "execution_time": 0.052,
+      "data": "2020-04-15 15:23:50.385703"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/13/change/",
+      "execution_time": 0.154,
+      "data": "2020-04-15 15:23:50.547552"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.017,
+      "data": "2020-04-15 15:23:50.626595"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/13/change/",
+      "execution_time": 0.142,
+      "data": "2020-04-15 15:34:19.004554"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/13/change/",
+      "execution_time": 0.149,
+      "data": "2020-04-15 15:34:19.164383"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.023,
+      "data": "2020-04-15 15:34:19.246505"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/",
+      "execution_time": 0.047,
+      "data": "2020-04-15 15:36:08.524542"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/savesignals/",
+      "execution_time": 0.047,
+      "data": "2020-04-15 15:36:19.483955"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.016,
+      "data": "2020-04-15 15:36:19.554577"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/savesignals/4/change/",
+      "execution_time": 0.038,
+      "data": "2020-04-15 15:36:23.589482"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.011,
+      "data": "2020-04-15 15:36:23.643641"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/savesignals/",
+      "execution_time": 0.049,
+      "data": "2020-04-15 15:36:25.767084"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/savesignals/",
+      "execution_time": 0.043,
+      "data": "2020-04-15 15:36:48.540808"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/savesignals/",
+      "execution_time": 0.082,
+      "data": "2020-04-15 15:36:49.335696"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.013,
+      "data": "2020-04-15 15:36:49.389002"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/",
+      "execution_time": 0.023,
+      "data": "2020-04-15 15:36:53.898551"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/savesignals/",
+      "execution_time": 0.044,
+      "data": "2020-04-15 15:36:56.285239"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.008,
+      "data": "2020-04-15 15:36:56.334347"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/",
+      "execution_time": 0.024,
+      "data": "2020-04-15 15:37:06.144104"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/",
+      "execution_time": 0.051,
+      "data": "2020-04-15 15:37:08.328019"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.011,
+      "data": "2020-04-15 15:37:08.376868"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/",
+      "execution_time": 0.041,
+      "data": "2020-04-15 15:37:54.111026"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/",
+      "execution_time": 0.057,
+      "data": "2020-04-15 15:37:56.004740"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.012,
+      "data": "2020-04-15 15:37:56.057280"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/",
+      "execution_time": 0.027,
+      "data": "2020-04-15 15:37:58.432254"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/saveip/",
+      "execution_time": 0.054,
+      "data": "2020-04-15 15:38:00.574179"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.011,
+      "data": "2020-04-15 15:38:00.624445"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/saveip/9/change/",
+      "execution_time": 0.038,
+      "data": "2020-04-15 15:38:06.361007"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.012,
+      "data": "2020-04-15 15:38:06.415345"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/",
+      "execution_time": 0.026,
+      "data": "2020-04-15 15:38:11.545880"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/savesignals/",
+      "execution_time": 0.046,
+      "data": "2020-04-15 15:38:23.692330"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.012,
+      "data": "2020-04-15 15:38:23.749044"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/savesignals/",
+      "execution_time": 0.069,
+      "data": "2020-04-15 15:39:11.451346"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.013,
+      "data": "2020-04-15 15:39:11.506521"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/savesignals/",
+      "execution_time": 0.057,
+      "data": "2020-04-15 15:39:12.075575"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.012,
+      "data": "2020-04-15 15:39:12.125138"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/savesignals/",
+      "execution_time": 0.048,
+      "data": "2020-04-15 15:39:12.479000"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.013,
+      "data": "2020-04-15 15:39:12.528429"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/savesignals/",
+      "execution_time": 0.047,
+      "data": "2020-04-15 15:39:12.707979"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.012,
+      "data": "2020-04-15 15:39:12.822371"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/savesignals/",
+      "execution_time": 0.056,
+      "data": "2020-04-15 15:39:13.320906"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.011,
+      "data": "2020-04-15 15:39:13.372375"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/savesignals/",
+      "execution_time": 0.056,
+      "data": "2020-04-15 15:39:13.557812"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.01,
+      "data": "2020-04-15 15:39:13.685825"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/savesignals/4/change/",
+      "execution_time": 0.789,
+      "data": "2020-04-15 15:39:44.007548"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/savesignals/4/change/",
+      "execution_time": 0.054,
+      "data": "2020-04-15 15:40:29.743811"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.015,
+      "data": "2020-04-15 15:40:29.820252"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/savesignals/",
+      "execution_time": 0.05,
+      "data": "2020-04-15 15:40:32.845667"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.012,
+      "data": "2020-04-15 15:40:32.891755"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/savesignals/",
+      "execution_time": 0.044,
+      "data": "2020-04-15 15:40:34.736843"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.012,
+      "data": "2020-04-15 15:40:34.786174"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/savesignals/",
+      "execution_time": 0.069,
+      "data": "2020-04-15 15:41:30.023556"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.012,
+      "data": "2020-04-15 15:41:30.091905"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.014,
+      "data": "2020-04-15 15:46:53.975416"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.113,
+      "data": "2020-04-15 15:46:54.096917"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.071,
+      "data": "2020-04-15 15:46:55.088566"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.09,
+      "data": "2020-04-15 15:52:41.316499"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.074,
+      "data": "2020-04-15 15:52:42.236195"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.072,
+      "data": "2020-04-15 15:52:43.169270"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.078,
+      "data": "2020-04-15 15:53:04.881987"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.013,
+      "data": "2020-04-15 15:53:23.890366"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.011,
+      "data": "2020-04-15 15:53:24.765414"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.186,
+      "data": "2020-04-15 15:53:38.800079"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.015,
+      "data": "2020-04-15 15:55:32.140118"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.104,
+      "data": "2020-04-15 15:55:33.133998"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.089,
+      "data": "2020-04-15 15:55:35.017098"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 5.734,
+      "data": "2020-04-15 16:04:34.969047"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.35,
+      "data": "2020-04-15 16:08:27.315622"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.073,
+      "data": "2020-04-15 16:08:27.315847"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/savesignals/4/change/",
+      "execution_time": 0.114,
+      "data": "2020-04-15 16:10:49.740238"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/",
+      "execution_time": 0.153,
+      "data": "2020-04-15 16:10:49.902323"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/",
+      "execution_time": 0.445,
+      "data": "2020-04-15 16:10:56.509582"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.08,
+      "data": "2020-04-15 16:10:56.646194"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/13/change/",
+      "execution_time": 0.313,
+      "data": "2020-04-15 16:10:58.592034"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.015,
+      "data": "2020-04-15 16:10:58.655017"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/13/change/",
+      "execution_time": 0.2,
+      "data": "2020-04-15 16:11:03.614541"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/add/",
+      "execution_time": 0.108,
+      "data": "2020-04-15 16:11:03.733741"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.012,
+      "data": "2020-04-15 16:11:03.793877"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/",
+      "execution_time": 0.067,
+      "data": "2020-04-15 16:11:05.595990"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.013,
+      "data": "2020-04-15 16:11:05.664502"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/12/change/",
+      "execution_time": 0.116,
+      "data": "2020-04-15 16:11:07.570423"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.011,
+      "data": "2020-04-15 16:11:07.628294"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/12/change/",
+      "execution_time": 0.073,
+      "data": "2020-04-15 16:11:11.493186"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/12/change/",
+      "execution_time": 0.114,
+      "data": "2020-04-15 16:11:11.613870"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.014,
+      "data": "2020-04-15 16:11:11.669856"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/",
+      "execution_time": 0.054,
+      "data": "2020-04-15 16:11:13.929928"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.011,
+      "data": "2020-04-15 16:11:13.987693"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.02,
+      "data": "2020-04-15 16:11:18.332735"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.013,
+      "data": "2020-04-15 16:11:19.135954"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.018,
+      "data": "2020-04-15 16:13:17.361045"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/",
+      "execution_time": 0.125,
+      "data": "2020-04-15 16:14:24.736461"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/",
+      "execution_time": 0.099,
+      "data": "2020-04-15 16:14:25.888143"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/",
+      "execution_time": 0.053,
+      "data": "2020-04-15 16:14:25.951859"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.012,
+      "data": "2020-04-15 16:14:26.054537"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.012,
+      "data": "2020-04-15 16:14:41.591954"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.016,
+      "data": "2020-04-15 16:18:29.123871"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.144,
+      "data": "2020-04-15 16:19:42.478176"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.012,
+      "data": "2020-04-15 16:19:42.540810"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/",
+      "execution_time": 0.085,
+      "data": "2020-04-15 16:25:51.578951"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.015,
+      "data": "2020-04-15 16:25:51.660717"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.138,
+      "data": "2020-04-15 16:25:53.264180"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.019,
+      "data": "2020-04-15 16:25:53.347256"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.066,
+      "data": "2020-04-15 16:40:38.765004"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.098,
+      "data": "2020-04-15 16:46:55.820919"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.14,
+      "data": "2020-04-15 16:46:55.971824"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.012,
+      "data": "2020-04-15 16:46:56.046110"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.017,
+      "data": "2020-04-15 16:46:58.071022"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.019,
+      "data": "2020-04-15 16:46:58.721887"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.124,
+      "data": "2020-04-15 16:47:03.786532"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.135,
+      "data": "2020-04-15 16:47:03.932963"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.012,
+      "data": "2020-04-15 16:47:03.997880"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.014,
+      "data": "2020-04-15 16:47:06.687076"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.015,
+      "data": "2020-04-15 16:47:07.328503"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.013,
+      "data": "2020-04-15 16:47:07.732638"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.032,
+      "data": "2020-04-15 16:47:08.060678"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.014,
+      "data": "2020-04-15 16:47:08.431748"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.016,
+      "data": "2020-04-15 16:47:08.717542"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.03,
+      "data": "2020-04-15 16:47:47.598531"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.017,
+      "data": "2020-04-15 16:48:56.388280"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.017,
+      "data": "2020-04-15 16:48:57.221421"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.118,
+      "data": "2020-04-15 16:49:16.566078"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.154,
+      "data": "2020-04-15 16:49:16.729348"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.01,
+      "data": "2020-04-15 16:49:16.809680"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.021,
+      "data": "2020-04-15 16:49:20.076308"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.016,
+      "data": "2020-04-15 16:49:20.786860"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.021,
+      "data": "2020-04-15 16:49:21.176231"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.1,
+      "data": "2020-04-15 16:51:24.243512"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.155,
+      "data": "2020-04-15 16:51:24.406773"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.017,
+      "data": "2020-04-15 16:51:24.469276"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.018,
+      "data": "2020-04-15 16:51:26.235881"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.015,
+      "data": "2020-04-15 16:51:26.845740"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.197,
+      "data": "2020-04-15 16:51:27.391855"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.019,
+      "data": "2020-04-15 16:51:27.445178"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.015,
+      "data": "2020-04-15 16:51:28.652203"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.131,
+      "data": "2020-04-15 16:54:37.571117"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.13,
+      "data": "2020-04-15 16:54:37.711371"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.012,
+      "data": "2020-04-15 16:54:37.775952"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.019,
+      "data": "2020-04-15 16:54:40.521050"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.02,
+      "data": "2020-04-15 16:54:41.272453"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.017,
+      "data": "2020-04-15 16:54:41.864046"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.021,
+      "data": "2020-04-15 16:54:42.156456"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.097,
+      "data": "2020-04-15 16:55:11.262393"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.141,
+      "data": "2020-04-15 16:55:11.410028"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.015,
+      "data": "2020-04-15 16:55:11.476572"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.091,
+      "data": "2020-04-15 16:55:47.594092"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.139,
+      "data": "2020-04-15 16:55:47.742044"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.013,
+      "data": "2020-04-15 16:55:47.798339"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.018,
+      "data": "2020-04-15 16:55:52.123021"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.09,
+      "data": "2020-04-15 16:56:42.918354"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.134,
+      "data": "2020-04-15 16:56:43.063014"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.011,
+      "data": "2020-04-15 16:56:43.115042"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.081,
+      "data": "2020-04-15 16:56:52.392168"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.135,
+      "data": "2020-04-15 16:56:52.538874"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.012,
+      "data": "2020-04-15 16:56:52.601719"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.018,
+      "data": "2020-04-15 16:56:55.932905"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.107,
+      "data": "2020-04-15 16:58:48.941463"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.132,
+      "data": "2020-04-15 16:58:49.084280"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.013,
+      "data": "2020-04-15 16:58:49.135095"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.076,
+      "data": "2020-04-15 16:59:12.127263"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.148,
+      "data": "2020-04-15 16:59:12.283622"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.013,
+      "data": "2020-04-15 16:59:12.357894"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.083,
+      "data": "2020-04-15 16:59:36.222832"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.157,
+      "data": "2020-04-15 16:59:36.396102"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.014,
+      "data": "2020-04-15 16:59:36.477843"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.094,
+      "data": "2020-04-15 17:07:34.934238"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.133,
+      "data": "2020-04-15 17:07:35.079263"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.014,
+      "data": "2020-04-15 17:07:35.149981"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.017,
+      "data": "2020-04-15 17:07:45.376752"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.015,
+      "data": "2020-04-15 17:07:46.099884"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.08,
+      "data": "2020-04-15 17:08:01.015596"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.13,
+      "data": "2020-04-15 17:08:01.153636"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.013,
+      "data": "2020-04-15 17:08:01.211112"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.034,
+      "data": "2020-04-15 17:10:13.532178"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.15,
+      "data": "2020-04-15 17:10:18.004156"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.016,
+      "data": "2020-04-15 17:10:18.080397"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.014,
+      "data": "2020-04-15 17:10:19.554898"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.078,
+      "data": "2020-04-15 17:10:26.109371"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.122,
+      "data": "2020-04-15 17:10:26.241772"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.016,
+      "data": "2020-04-15 17:10:26.314063"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.017,
+      "data": "2020-04-15 17:10:28.188121"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.083,
+      "data": "2020-04-15 17:11:04.970268"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.136,
+      "data": "2020-04-15 17:11:05.114499"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.011,
+      "data": "2020-04-15 17:11:05.165713"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.016,
+      "data": "2020-04-15 17:11:07.293634"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.034,
+      "data": "2020-04-15 17:11:15.583200"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.154,
+      "data": "2020-04-15 17:11:19.194405"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.02,
+      "data": "2020-04-15 17:11:19.256751"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.014,
+      "data": "2020-04-15 17:11:21.245359"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.07,
+      "data": "2020-04-15 17:11:24.129174"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.132,
+      "data": "2020-04-15 17:11:24.270346"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.014,
+      "data": "2020-04-15 17:11:24.328568"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.014,
+      "data": "2020-04-15 17:11:26.030942"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.08,
+      "data": "2020-04-15 17:12:13.551136"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.135,
+      "data": "2020-04-15 17:12:13.695911"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.012,
+      "data": "2020-04-15 17:12:13.756029"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.019,
+      "data": "2020-04-15 17:12:16.056831"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.079,
+      "data": "2020-04-15 17:15:30.451701"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/change/",
+      "execution_time": 0.138,
+      "data": "2020-04-15 17:15:30.601208"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.013,
+      "data": "2020-04-15 17:15:30.659132"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.019,
+      "data": "2020-04-15 17:15:33.007668"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/delete/",
+      "execution_time": 0.103,
+      "data": "2020-04-15 17:15:40.714953"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/11/delete/",
+      "execution_time": 0.065,
+      "data": "2020-04-15 17:15:43.032275"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/",
+      "execution_time": 0.056,
+      "data": "2020-04-15 17:15:43.096690"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.012,
+      "data": "2020-04-15 17:15:43.161040"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.016,
+      "data": "2020-04-15 17:15:45.006965"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/",
+      "execution_time": 0.07,
+      "data": "2020-04-15 17:19:08.286678"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/savesignals/",
+      "execution_time": 0.078,
+      "data": "2020-04-15 17:19:10.252096"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.012,
+      "data": "2020-04-15 17:19:10.319817"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/",
+      "execution_time": 0.042,
+      "data": "2020-04-15 17:19:18.568154"
+    }
+  ]
 },

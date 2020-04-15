@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+    {% block content %}
+<table class="table table-sm table-success">
+  <thead>
+    <tr>
+      <th scope="col">ID</th>
+      <th scope="col">DATA_CHANGES</th>
+      <th scope="col">TYPE_CHANGES</th>
+      <th scope="col">INFO_CHANGES</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for data in data_show %}
+    <tr>
+      <td>{{ data.id }}</td>
+      <td>{{ data.data_changes }}</td>
+      <td>{{ data.get_type_changes_display }}</td>
+      <td>{{ data.info_changes }}</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+
+    {% endblock content %}

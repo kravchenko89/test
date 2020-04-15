@@ -4,7 +4,7 @@ from django.views.generic import CreateView, ListView, UpdateView
 
 
 from account.forms import UserCreationForm, UserChangeForm
-from account.models import User, SaveIP
+from account.models import User, SaveIP, SaveSignals
 
 
 class UserCreate(CreateView):
@@ -52,3 +52,9 @@ class ChangeProfile(UpdateView):
         # breakpoint()
         return response
 
+
+class SaveSignalsShow(ListView):
+    model = SaveSignals
+    template_name = 'save_signals.html'
+    paginate_by = 20
+    context_object_name = 'data_show'

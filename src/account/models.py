@@ -1,7 +1,10 @@
 from django.contrib.auth.models import AbstractUser
 from django.core.validators import RegexValidator
 from django_countries.fields import CountryField
+
 from django.db import models
+
+from account import model_choices as mch
 
 
 class User(AbstractUser):
@@ -25,3 +28,13 @@ class SaveIP(models.Model):
     def __str__(self):
         return f'{self.user}{self.user_ip}' \
                f'{self.data_saved}'
+
+
+class SaveSignals(models.Model):
+    data_changes = models.DateTimeField(auto_now=True)
+    type_changes = models.PositiveSmallIntegerField(choices=mch.TYPE_CHANGES, null=True, blank=True)
+    info_changes = models.TextField(max_length=500, null=True, blank=True)
+
+    def __str__(self):
+        return f'{self.data_changes}{self.get_type_changes_display()}' \
+               f'{self.info_changes}'
