@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*pyc
+.idea/
+settings_local.py
+!.gitkeep
+run/
+static_content

@@ -1,0 +1,34 @@
+{% extends 'base.html' %}
+
+    {% block content %}
+
+{% load tags %}
+
+
+        <p class="text-center">{{ settings }}</p>
+        <p class="text-center">{{ var }}</p>
+
+
+        {% if user.is_authenticated %}
+
+            <h2 class="text-center">First Page</h2>
+
+            <form method="post">
+
+                <p>Username: {{ user.username }}</p>
+                <p>First name: {{ user.first_name }}</p>
+                <p>Last name: {{ user.last_name }}</p>
+                <p>Date of birth: {{ user.birth_date }}</p>
+                <p>Country: {{ user.country }}</p>
+                <p>Biography: {{ user.bio }}</p>
+                <p>Contact: {{ user.phone }}</p>
+
+                <h1>Test : {% change_tag %} </h1>
+        {% else %}
+
+                <p class="text-center"><a href="{% url 'account:login' %}">Login</a> to see information</p>
+
+        {% endif %}
+
+        </form>
+    {% endblock content %}
