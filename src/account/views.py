@@ -49,7 +49,6 @@ class ChangeProfile(UpdateView):
         SaveIP.objects.create(user=request.user.username,
                               user_ip=request.META['REMOTE_ADDR'],
                               data_saved=SaveIP.data_saved)
-        # breakpoint()
         return response
 
 

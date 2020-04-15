@@ -1,0 +1,51 @@
+version: "3"
+
+services:
+
+  backend:
+    build: .
+    command: python src/manage.py runserver 0:8000
+    container_name: backend
+    restart: always
+    env_file:
+      - .env
+    volumes:
+      - ./:/srv/project
+    depends_on:
+      - postgres
+      - memcached
+
+    ports:
+      - "8000:8000"
+      - "8001:8001"
+
+  memcached:
+    image: memcached:latest
+    container_name: memcached
+    restart: always
+
+  postgres:
+    image: postgres:12.2
+    container_name: postgres
+    restart: always
+    ports:
+      - "5432:5432"
+    env_file:
+      - .env
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  nginx:
+    image: nginx:1.17.4-alpine
+    container_name: nginx
+    volumes:
+      - ./nginx:/etc/nginx/conf.d/
+      - ./static:/etc/nginx/static/
+    ports:
+      - "81:80"
+      - "443:443"
+    depends_on:
+      - backend
+
+volumes:
+   pgdata: {}
