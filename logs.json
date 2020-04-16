@@ -11670,4 +11670,2980 @@
       "data": "2020-04-15 19:31:45.667771"
     }
   ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.366,
+      "data": "2020-04-15 19:33:29.992751"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.286,
+      "data": "2020-04-15 19:33:32.313381"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.05,
+      "data": "2020-04-15 19:33:32.402061"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/profile/1/",
+      "execution_time": 0.186,
+      "data": "2020-04-15 19:33:36.047365"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/profile/1/",
+      "execution_time": 0.275,
+      "data": "2020-04-15 19:33:56.427642"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.015,
+      "data": "2020-04-15 19:33:56.450696"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.143,
+      "data": "2020-04-15 19:33:59.628755"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.732,
+      "data": "2020-04-16 09:41:27.607620"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/favicon.ico",
+      "execution_time": 0.063,
+      "data": "2020-04-16 09:41:28.498460"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/profile/1/",
+      "execution_time": 0.334,
+      "data": "2020-04-16 09:42:48.414156"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.184,
+      "data": "2020-04-16 09:42:51.220755"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.019,
+      "data": "2020-04-16 09:42:57.793348"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/auth/logout/",
+      "execution_time": 0.062,
+      "data": "2020-04-16 09:42:59.639387"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.003,
+      "data": "2020-04-16 09:42:59.651138"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.075,
+      "data": "2020-04-16 09:43:01.139831"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.122,
+      "data": "2020-04-16 09:43:02.849421"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.009,
+      "data": "2020-04-16 09:43:05.865513"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.037,
+      "data": "2020-04-16 14:43:14.317856"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.007,
+      "data": "2020-04-16 14:43:15.029133"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.022,
+      "data": "2020-04-16 14:49:01.784562"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.007,
+      "data": "2020-04-16 15:00:48.993981"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.005,
+      "data": "2020-04-16 15:00:57.969783"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/favicon.ico",
+      "execution_time": 0.019,
+      "data": "2020-04-16 15:00:58.378494"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.142,
+      "data": "2020-04-16 15:02:58.029753"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.006,
+      "data": "2020-04-16 15:02:58.693546"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.006,
+      "data": "2020-04-16 15:02:59.145030"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.004,
+      "data": "2020-04-16 15:02:59.380019"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.004,
+      "data": "2020-04-16 15:02:59.640234"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.004,
+      "data": "2020-04-16 15:03:00.014800"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.005,
+      "data": "2020-04-16 15:05:12.597140"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.004,
+      "data": "2020-04-16 15:06:31.234559"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.004,
+      "data": "2020-04-16 15:06:31.709995"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.005,
+      "data": "2020-04-16 15:06:32.021089"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.004,
+      "data": "2020-04-16 15:06:32.152763"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.006,
+      "data": "2020-04-16 15:06:32.267983"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.005,
+      "data": "2020-04-16 15:06:32.523577"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.005,
+      "data": "2020-04-16 15:06:32.589145"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.005,
+      "data": "2020-04-16 15:06:32.789374"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.399,
+      "data": "2020-04-16 15:11:13.182791"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.136,
+      "data": "2020-04-16 15:14:15.862186"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.008,
+      "data": "2020-04-16 15:14:16.611384"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.007,
+      "data": "2020-04-16 15:14:17.177178"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.012,
+      "data": "2020-04-16 15:14:17.434564"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.013,
+      "data": "2020-04-16 15:14:17.748167"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.012,
+      "data": "2020-04-16 15:14:18.040350"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.013,
+      "data": "2020-04-16 15:14:18.160302"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.01,
+      "data": "2020-04-16 15:14:18.424798"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.01,
+      "data": "2020-04-16 15:14:18.592291"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.116,
+      "data": "2020-04-16 15:21:04.013430"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.034,
+      "data": "2020-04-16 15:21:12.273702"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.012,
+      "data": "2020-04-16 15:23:06.984982"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.012,
+      "data": "2020-04-16 15:24:49.285769"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.017,
+      "data": "2020-04-16 15:24:49.557498"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.046,
+      "data": "2020-04-16 15:24:54.168754"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.004,
+      "data": "2020-04-16 15:24:54.732400"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.004,
+      "data": "2020-04-16 15:24:55.063373"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.003,
+      "data": "2020-04-16 15:24:55.306726"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.006,
+      "data": "2020-04-16 15:24:55.452165"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.012,
+      "data": "2020-04-16 15:25:11.293823"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.012,
+      "data": "2020-04-16 15:26:07.609087"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.011,
+      "data": "2020-04-16 15:27:07.178748"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.013,
+      "data": "2020-04-16 15:27:07.666874"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.008,
+      "data": "2020-04-16 15:27:08.392640"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.013,
+      "data": "2020-04-16 15:27:08.748950"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.012,
+      "data": "2020-04-16 15:27:09.035990"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.011,
+      "data": "2020-04-16 15:27:52.637802"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.01,
+      "data": "2020-04-16 15:27:53.188923"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.012,
+      "data": "2020-04-16 15:27:53.535600"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.016,
+      "data": "2020-04-16 15:27:53.709680"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.02,
+      "data": "2020-04-16 15:27:53.935769"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.012,
+      "data": "2020-04-16 15:27:54.080966"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.008,
+      "data": "2020-04-16 15:29:52.486585"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.012,
+      "data": "2020-04-16 15:29:53.113395"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.007,
+      "data": "2020-04-16 15:29:53.551197"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.012,
+      "data": "2020-04-16 15:29:53.946057"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.004,
+      "data": "2020-04-16 15:29:56.082315"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.006,
+      "data": "2020-04-16 15:29:56.660188"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.005,
+      "data": "2020-04-16 15:29:56.928697"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.006,
+      "data": "2020-04-16 15:29:57.098013"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.003,
+      "data": "2020-04-16 15:29:57.257415"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.004,
+      "data": "2020-04-16 15:29:57.634551"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.005,
+      "data": "2020-04-16 15:29:58.209523"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.004,
+      "data": "2020-04-16 15:29:58.495501"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.004,
+      "data": "2020-04-16 15:29:58.725811"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.004,
+      "data": "2020-04-16 15:29:59.036523"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.004,
+      "data": "2020-04-16 15:29:59.197707"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.008,
+      "data": "2020-04-16 15:30:02.563255"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.01,
+      "data": "2020-04-16 15:30:45.449554"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.274,
+      "data": "2020-04-16 15:38:16.772658"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.069,
+      "data": "2020-04-16 15:38:55.852772"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.011,
+      "data": "2020-04-16 15:39:30.964886"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.011,
+      "data": "2020-04-16 15:39:41.592072"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.011,
+      "data": "2020-04-16 15:39:45.151843"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.011,
+      "data": "2020-04-16 15:39:45.732110"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.012,
+      "data": "2020-04-16 15:39:46.175584"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.01,
+      "data": "2020-04-16 15:39:46.496153"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.011,
+      "data": "2020-04-16 15:39:46.673850"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.012,
+      "data": "2020-04-16 15:39:46.896505"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.01,
+      "data": "2020-04-16 15:39:47.258913"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.009,
+      "data": "2020-04-16 15:39:47.387126"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.011,
+      "data": "2020-04-16 15:39:47.598928"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.012,
+      "data": "2020-04-16 15:39:47.789094"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.01,
+      "data": "2020-04-16 15:39:47.977326"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.012,
+      "data": "2020-04-16 15:39:48.132718"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.009,
+      "data": "2020-04-16 15:39:48.517546"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.026,
+      "data": "2020-04-16 15:39:48.794453"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.012,
+      "data": "2020-04-16 15:41:37.661263"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.011,
+      "data": "2020-04-16 15:41:41.091145"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.01,
+      "data": "2020-04-16 15:41:41.464454"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.012,
+      "data": "2020-04-16 15:41:41.606863"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.009,
+      "data": "2020-04-16 15:41:51.274774"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.011,
+      "data": "2020-04-16 15:41:52.113743"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.01,
+      "data": "2020-04-16 15:42:01.697026"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.009,
+      "data": "2020-04-16 15:43:01.645736"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.008,
+      "data": "2020-04-16 15:43:02.357016"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.009,
+      "data": "2020-04-16 15:43:04.633316"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.008,
+      "data": "2020-04-16 15:43:05.274739"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.011,
+      "data": "2020-04-16 15:43:35.296100"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.008,
+      "data": "2020-04-16 15:43:36.063193"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.011,
+      "data": "2020-04-16 15:43:38.215246"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 2.572,
+      "data": "2020-04-16 15:43:50.094139"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.238,
+      "data": "2020-04-16 15:43:50.454633"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/auth/logout/",
+      "execution_time": 0.055,
+      "data": "2020-04-16 15:43:53.565818"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.006,
+      "data": "2020-04-16 15:43:53.581856"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.009,
+      "data": "2020-04-16 15:43:55.376610"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.219,
+      "data": "2020-04-16 15:44:03.838794"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.012,
+      "data": "2020-04-16 15:44:10.032224"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.179,
+      "data": "2020-04-16 15:44:15.731326"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.017,
+      "data": "2020-04-16 15:44:15.768223"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/auth/logout/",
+      "execution_time": 0.033,
+      "data": "2020-04-16 15:44:19.147642"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.004,
+      "data": "2020-04-16 15:44:19.159346"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.013,
+      "data": "2020-04-16 15:46:21.727992"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.011,
+      "data": "2020-04-16 15:47:00.463430"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.185,
+      "data": "2020-04-16 15:47:08.359346"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.018,
+      "data": "2020-04-16 15:47:08.395617"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/auth/logout/",
+      "execution_time": 0.042,
+      "data": "2020-04-16 15:47:11.806623"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.005,
+      "data": "2020-04-16 15:47:11.820942"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.011,
+      "data": "2020-04-16 15:47:13.544929"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.011,
+      "data": "2020-04-16 15:47:49.499176"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.009,
+      "data": "2020-04-16 15:47:50.198983"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.012,
+      "data": "2020-04-16 15:48:31.115528"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.008,
+      "data": "2020-04-16 15:48:40.010136"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.01,
+      "data": "2020-04-16 15:49:06.585350"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.009,
+      "data": "2020-04-16 15:49:19.867443"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.007,
+      "data": "2020-04-16 15:51:46.990851"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.009,
+      "data": "2020-04-16 15:57:57.871387"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.009,
+      "data": "2020-04-16 15:58:20.839080"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.009,
+      "data": "2020-04-16 15:59:13.349209"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.007,
+      "data": "2020-04-16 16:00:55.824728"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.005,
+      "data": "2020-04-16 16:04:43.993303"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.007,
+      "data": "2020-04-16 16:04:54.165675"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.008,
+      "data": "2020-04-16 16:05:36.861888"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.007,
+      "data": "2020-04-16 16:05:37.542523"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.146,
+      "data": "2020-04-16 16:05:44.452521"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.134,
+      "data": "2020-04-16 16:06:23.549192"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.135,
+      "data": "2020-04-16 16:06:39.782705"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.147,
+      "data": "2020-04-16 16:07:11.638553"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.141,
+      "data": "2020-04-16 16:07:25.178123"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.128,
+      "data": "2020-04-16 16:08:34.201800"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.13,
+      "data": "2020-04-16 16:10:27.043768"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.13,
+      "data": "2020-04-16 16:11:04.232763"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.133,
+      "data": "2020-04-16 16:11:40.559023"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.141,
+      "data": "2020-04-16 16:14:07.583021"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.137,
+      "data": "2020-04-16 16:15:57.050642"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.181,
+      "data": "2020-04-16 16:16:41.529625"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.136,
+      "data": "2020-04-16 16:17:29.741467"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.134,
+      "data": "2020-04-16 16:19:36.838491"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.136,
+      "data": "2020-04-16 16:20:45.429065"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.137,
+      "data": "2020-04-16 16:22:27.695154"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.138,
+      "data": "2020-04-16 16:23:10.469139"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.136,
+      "data": "2020-04-16 16:23:58.452258"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.375,
+      "data": "2020-04-16 16:25:43.126466"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.006,
+      "data": "2020-04-16 16:27:43.473388"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.092,
+      "data": "2020-04-16 16:28:28.335708"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.005,
+      "data": "2020-04-16 16:35:13.957742"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.052,
+      "data": "2020-04-16 17:21:09.648530"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.004,
+      "data": "2020-04-16 17:23:29.671566"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.005,
+      "data": "2020-04-16 17:24:23.393947"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.005,
+      "data": "2020-04-16 17:25:27.894312"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.005,
+      "data": "2020-04-16 17:25:28.610791"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.003,
+      "data": "2020-04-16 17:27:44.105459"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.006,
+      "data": "2020-04-16 17:28:37.030320"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.004,
+      "data": "2020-04-16 17:28:37.798905"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.099,
+      "data": "2020-04-16 17:33:25.792069"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.026,
+      "data": "2020-04-16 17:35:46.773751"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.004,
+      "data": "2020-04-16 17:38:06.638627"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.005,
+      "data": "2020-04-16 17:38:42.012957"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.006,
+      "data": "2020-04-16 17:39:18.626396"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.004,
+      "data": "2020-04-16 17:39:19.319643"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.006,
+      "data": "2020-04-16 17:39:19.590492"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.005,
+      "data": "2020-04-16 17:39:19.686631"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.006,
+      "data": "2020-04-16 17:39:20.022520"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.003,
+      "data": "2020-04-16 17:39:20.238710"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.006,
+      "data": "2020-04-16 17:39:20.434955"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.005,
+      "data": "2020-04-16 17:39:29.000650"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.005,
+      "data": "2020-04-16 17:40:04.528915"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.004,
+      "data": "2020-04-16 17:40:05.441999"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.005,
+      "data": "2020-04-16 17:40:12.289543"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.005,
+      "data": "2020-04-16 17:40:42.932509"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.003,
+      "data": "2020-04-16 17:40:43.683756"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.007,
+      "data": "2020-04-16 17:40:44.426404"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.005,
+      "data": "2020-04-16 17:41:15.391630"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.005,
+      "data": "2020-04-16 17:41:51.323515"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.029,
+      "data": "2020-04-16 17:46:22.196568"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.106,
+      "data": "2020-04-16 17:46:36.585529"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.545,
+      "data": "2020-04-16 18:03:01.293867"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.126,
+      "data": "2020-04-16 18:04:17.430159"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.08,
+      "data": "2020-04-16 18:04:50.006119"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.101,
+      "data": "2020-04-16 18:04:51.761840"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.02,
+      "data": "2020-04-16 18:08:13.166092"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.005,
+      "data": "2020-04-16 18:08:13.989359"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.107,
+      "data": "2020-04-16 18:09:23.536392"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.102,
+      "data": "2020-04-16 18:11:35.243969"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.104,
+      "data": "2020-04-16 18:12:15.121680"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.099,
+      "data": "2020-04-16 18:12:42.984300"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.107,
+      "data": "2020-04-16 18:17:14.282111"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.097,
+      "data": "2020-04-16 18:17:32.379731"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.107,
+      "data": "2020-04-16 18:17:33.165681"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.113,
+      "data": "2020-04-16 18:17:33.747404"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.375,
+      "data": "2020-04-16 18:17:43.106516"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.108,
+      "data": "2020-04-16 18:19:30.852513"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.105,
+      "data": "2020-04-16 18:20:34.411036"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.094,
+      "data": "2020-04-16 18:20:43.474518"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.099,
+      "data": "2020-04-16 18:21:07.091067"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.093,
+      "data": "2020-04-16 18:21:14.205469"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.112,
+      "data": "2020-04-16 18:21:15.053156"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.136,
+      "data": "2020-04-16 18:21:22.562357"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.183,
+      "data": "2020-04-16 18:22:37.255423"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.087,
+      "data": "2020-04-16 18:22:39.804631"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.101,
+      "data": "2020-04-16 18:22:56.213265"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.1,
+      "data": "2020-04-16 18:23:07.740133"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.37,
+      "data": "2020-04-16 18:23:17.998560"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.109,
+      "data": "2020-04-16 18:24:40.876555"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.097,
+      "data": "2020-04-16 18:24:41.739129"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.093,
+      "data": "2020-04-16 18:25:06.320682"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.092,
+      "data": "2020-04-16 18:25:07.062509"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.09,
+      "data": "2020-04-16 18:25:07.685760"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.148,
+      "data": "2020-04-16 18:25:41.680028"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.099,
+      "data": "2020-04-16 18:25:42.587814"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.097,
+      "data": "2020-04-16 18:25:48.862246"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.099,
+      "data": "2020-04-16 18:25:49.646041"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.099,
+      "data": "2020-04-16 18:25:50.296938"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.098,
+      "data": "2020-04-16 18:26:17.229993"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.095,
+      "data": "2020-04-16 18:26:18.000110"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.115,
+      "data": "2020-04-16 18:26:18.607001"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.095,
+      "data": "2020-04-16 18:27:03.199242"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.1,
+      "data": "2020-04-16 18:27:03.912642"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.121,
+      "data": "2020-04-16 18:27:04.595152"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.371,
+      "data": "2020-04-16 18:27:14.783230"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.102,
+      "data": "2020-04-16 18:27:37.235975"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.103,
+      "data": "2020-04-16 18:27:37.998487"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.353,
+      "data": "2020-04-16 18:27:53.284768"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.083,
+      "data": "2020-04-16 18:29:18.824894"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.085,
+      "data": "2020-04-16 18:29:19.659724"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.354,
+      "data": "2020-04-16 18:29:47.326775"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.369,
+      "data": "2020-04-16 18:32:08.936512"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.334,
+      "data": "2020-04-16 18:32:42.559877"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.089,
+      "data": "2020-04-16 18:33:23.396914"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.273,
+      "data": "2020-04-16 18:34:42.803960"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.29,
+      "data": "2020-04-16 18:37:27.521584"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.27,
+      "data": "2020-04-16 18:39:28.236678"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.291,
+      "data": "2020-04-16 18:40:54.934822"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.279,
+      "data": "2020-04-16 18:43:14.758744"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.325,
+      "data": "2020-04-16 18:43:26.118036"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.403,
+      "data": "2020-04-16 18:43:27.560697"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.281,
+      "data": "2020-04-16 18:43:39.145735"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.296,
+      "data": "2020-04-16 18:46:03.892510"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.364,
+      "data": "2020-04-16 18:48:23.088377"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.351,
+      "data": "2020-04-16 18:48:25.531365"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.277,
+      "data": "2020-04-16 18:48:57.336656"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.272,
+      "data": "2020-04-16 18:49:54.624558"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.283,
+      "data": "2020-04-16 18:50:37.824725"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.308,
+      "data": "2020-04-16 18:51:50.421259"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.288,
+      "data": "2020-04-16 18:51:51.417624"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.265,
+      "data": "2020-04-16 18:52:25.697123"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.28,
+      "data": "2020-04-16 18:53:17.025167"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.403,
+      "data": "2020-04-16 18:53:18.111614"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.251,
+      "data": "2020-04-16 18:53:40.306501"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.004,
+      "data": "2020-04-16 18:53:43.678017"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.004,
+      "data": "2020-04-16 18:53:44.428552"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.004,
+      "data": "2020-04-16 18:54:26.935263"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.006,
+      "data": "2020-04-16 18:54:27.415857"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.004,
+      "data": "2020-04-16 18:54:27.615306"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.006,
+      "data": "2020-04-16 18:54:27.852224"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.005,
+      "data": "2020-04-16 18:54:28.039366"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.382,
+      "data": "2020-04-16 18:54:31.606902"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.04,
+      "data": "2020-04-16 18:54:31.702268"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/auth/logout/",
+      "execution_time": 0.05,
+      "data": "2020-04-16 18:54:35.899324"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.004,
+      "data": "2020-04-16 18:54:35.916263"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.004,
+      "data": "2020-04-16 18:54:37.629198"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.005,
+      "data": "2020-04-16 18:55:29.706349"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.003,
+      "data": "2020-04-16 18:55:30.342521"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.299,
+      "data": "2020-04-16 18:55:32.005364"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.29,
+      "data": "2020-04-16 18:58:38.530389"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.3,
+      "data": "2020-04-16 18:58:46.214779"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.29,
+      "data": "2020-04-16 18:59:30.614848"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.301,
+      "data": "2020-04-16 18:59:31.477821"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.348,
+      "data": "2020-04-16 18:59:54.648108"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.278,
+      "data": "2020-04-16 19:00:23.220929"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.283,
+      "data": "2020-04-16 19:06:44.863373"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/singup/",
+      "execution_time": 0.291,
+      "data": "2020-04-16 19:09:58.273066"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.006,
+      "data": "2020-04-16 19:10:08.023461"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.353,
+      "data": "2020-04-16 19:10:09.926876"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.013,
+      "data": "2020-04-16 19:10:09.983082"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/profile/1/",
+      "execution_time": 0.34,
+      "data": "2020-04-16 19:10:16.255389"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/profile/1/",
+      "execution_time": 0.369,
+      "data": "2020-04-16 19:11:36.762666"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/profile/1/",
+      "execution_time": 0.283,
+      "data": "2020-04-16 19:12:09.602262"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/profile/1/",
+      "execution_time": 0.308,
+      "data": "2020-04-16 19:13:42.760783"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.105,
+      "data": "2020-04-16 19:14:03.484614"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.017,
+      "data": "2020-04-16 19:15:32.916938"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.017,
+      "data": "2020-04-16 19:16:25.354179"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.018,
+      "data": "2020-04-16 19:17:02.140773"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.02,
+      "data": "2020-04-16 19:17:38.320476"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.021,
+      "data": "2020-04-16 19:17:48.885350"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.017,
+      "data": "2020-04-16 19:18:09.762743"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.02,
+      "data": "2020-04-16 19:19:06.405562"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.018,
+      "data": "2020-04-16 19:19:17.345818"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.017,
+      "data": "2020-04-16 19:19:31.723506"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.737,
+      "data": "2020-04-16 19:20:37.729572"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.021,
+      "data": "2020-04-16 19:20:55.294002"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.02,
+      "data": "2020-04-16 19:22:23.636234"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.317,
+      "data": "2020-04-16 19:22:51.239487"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.018,
+      "data": "2020-04-16 19:23:05.228569"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.051,
+      "data": "2020-04-16 19:24:40.898261"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.019,
+      "data": "2020-04-16 19:24:49.074299"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.018,
+      "data": "2020-04-16 19:24:59.215195"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.017,
+      "data": "2020-04-16 19:28:02.927922"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.016,
+      "data": "2020-04-16 19:28:28.702253"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/save_signals/",
+      "execution_time": 0.02,
+      "data": "2020-04-16 19:29:41.428308"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/",
+      "execution_time": 0.318,
+      "data": "2020-04-16 19:32:22.427136"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/logout/",
+      "execution_time": 0.092,
+      "data": "2020-04-16 19:32:27.217044"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.016,
+      "data": "2020-04-16 19:32:27.244838"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/",
+      "execution_time": 0.001,
+      "data": "2020-04-16 19:32:32.310697"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/login/",
+      "execution_time": 0.531,
+      "data": "2020-04-16 19:32:32.849781"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/login/",
+      "execution_time": 0.018,
+      "data": "2020-04-16 19:32:50.615303"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.005,
+      "data": "2020-04-16 19:33:18.470830"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.054,
+      "data": "2020-04-16 19:33:29.426811"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/account/login/",
+      "execution_time": 0.687,
+      "data": "2020-04-16 19:33:41.810389"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.016,
+      "data": "2020-04-16 19:33:41.869130"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.014,
+      "data": "2020-04-16 19:34:25.716708"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.021,
+      "data": "2020-04-16 19:34:44.785627"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.194,
+      "data": "2020-04-16 19:36:09.727692"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.411,
+      "data": "2020-04-16 19:36:09.727986"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.039,
+      "data": "2020-04-16 19:36:09.729017"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/1/",
+      "execution_time": 0.194,
+      "data": "2020-04-16 19:36:11.556161"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/account/user/1/change/",
+      "execution_time": 0.345,
+      "data": "2020-04-16 19:36:11.911911"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/admin/jsi18n/",
+      "execution_time": 0.032,
+      "data": "2020-04-16 19:36:12.055157"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.016,
+      "data": "2020-04-16 19:36:19.723988"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.016,
+      "data": "2020-04-16 19:36:20.935299"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.015,
+      "data": "2020-04-16 19:38:20.330403"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.013,
+      "data": "2020-04-16 19:38:44.134598"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.018,
+      "data": "2020-04-16 19:43:24.443100"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.018,
+      "data": "2020-04-16 19:43:25.374804"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.016,
+      "data": "2020-04-16 19:43:26.532297"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.015,
+      "data": "2020-04-16 19:43:27.088829"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.014,
+      "data": "2020-04-16 19:44:48.357086"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.016,
+      "data": "2020-04-16 19:46:08.212783"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.016,
+      "data": "2020-04-16 19:47:21.390875"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.017,
+      "data": "2020-04-16 19:47:21.717378"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.018,
+      "data": "2020-04-16 19:47:22.392591"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.019,
+      "data": "2020-04-16 19:47:22.661607"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.016,
+      "data": "2020-04-16 19:47:22.957487"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.016,
+      "data": "2020-04-16 19:47:23.137488"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.016,
+      "data": "2020-04-16 19:47:23.316411"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.018,
+      "data": "2020-04-16 19:47:23.767840"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.019,
+      "data": "2020-04-16 19:47:24.258646"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.015,
+      "data": "2020-04-16 19:47:52.300755"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.014,
+      "data": "2020-04-16 19:48:23.580287"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.014,
+      "data": "2020-04-16 19:48:23.837509"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.018,
+      "data": "2020-04-16 19:49:04.720374"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.014,
+      "data": "2020-04-16 19:50:06.994286"
+    }
+  ]
+},{
+  "info": [
+    {
+      "path": "/",
+      "execution_time": 0.015,
+      "data": "2020-04-16 19:50:24.824159"
+    }
+  ]
 },

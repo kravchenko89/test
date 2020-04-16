@@ -13,6 +13,6 @@ register = template.Library()
 
 @register.simple_tag(takes_context=True)
 def change_tag(context):
-    return Template('<a href="http://127.0.0.1:8001/admin/account/user/{{ user.id }}">link</a>').render(context)
+    return Template('<a href="http://127.0.0.1:81/admin/account/user/{{ user.id }}">link</a>').render(context)
 
 # # register.filter('change_tag', change_tag) {% request.user.id %}

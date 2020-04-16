@@ -1,7 +1,7 @@
 from django import forms
-from django.forms import SelectDateWidget
+# from django.forms import SelectDateWidget
 
-from  account.models import User
+from account.models import User
 
 
 class UserCreationForm(forms.ModelForm):
@@ -12,9 +12,9 @@ class UserCreationForm(forms.ModelForm):
         model = User
         fields = ('username', 'first_name', 'last_name', 'bio', 'birth_date',
                   'country', 'email', 'phone', 'password', 'password_confirm')
-        widgets = {
-            'birth_date': SelectDateWidget(years=range(1940, 2016))
-        }
+        # widgets = {
+        #     'birth_date': SelectDateWidget(years=range(1940, 2016))
+        # }
 
     def clean(self):
         cleaned_data = super().clean()
@@ -39,6 +39,6 @@ class UserChangeForm(forms.ModelForm):
         model = User
         fields = ('username', 'first_name', 'last_name', 'bio', 'birth_date',
                   'country', 'email', 'phone')
-        widgets = {
-            'birth_date': SelectDateWidget(years=range(1940, 2014))
-        }
+        # widgets = {
+        #     'birth_date': SelectDateWidget(years=range(1940, 2014))
+        # }

@@ -4,13 +4,72 @@
 
     {% block content %}
 
-<h2 class="text-center">Login</h2>
+<h2 class="text-center">Change Profile</h2>
 
-<form method="post">
+<form method="post" class="form_change_profile col-12 col-sm-8 col-lg-6 col-xl-4">
   {% csrf_token %}
-    {{ form.as_p }}
+    <div class="input-group flex-nowrap">
+        <div class="input-group-prepend">
+            <span class="input-group-text" id="addon-wrapping1">Username</span>
+        </div>
+        <input type="text" class="form-control" id='id_username' aria-label="Username" aria-describedby="addon-wrapping" required>
+    </div>
 
-  <button type="submit">Login</button>
+    <div class="input-group flex-nowrap">
+        <div class="input-group-prepend">
+            <span class="input-group-text" id="addon-wrapping2">First Name</span>
+        </div>
+        <input type="text" class="form-control" id='id_first_name' aria-label="FirstName" aria-describedby="addon-wrapping" required>
+    </div>
+
+    <div class="input-group flex-nowrap">
+        <div class="input-group-prepend">
+            <span class="input-group-text" id="addon-wrapping3">Last Name</span>
+        </div>
+        <input type="text" class="form-control" id='id_last_name' aria-label="LastName" aria-describedby="addon-wrapping" required>
+    </div>
+
+    <div class="input-group flex-nowrap">
+        <div class="input-group-prepend">
+            <span class="input-group-text" id="addon-wrapping10">Bio</span>
+        </div>
+        <textarea class="form-control" id="id_bio" rows="3"></textarea>
+    </div>
+
+    <div class="input-group flex-nowrap">
+        <div class="input-group-prepend">
+            <span class="input-group-text" id="addon-wrapping4">Birth Date</span>
+        </div>
+        <input type="date"  class="form-control" id='id_birth_date' aria-label="BirthDate" aria-describedby="addon-wrapping" required>
+    </div>
+
+    <div class="input-group flex-nowrap">
+        <div class="input-group-prepend">
+            <span class="input-group-text" id="addon-wrapping5">Country</span>
+        </div>
+        <select class="form-control">
+            {% for country in form.country %}
+            <option>{{ country }}</option>
+            {% endfor %}
+        </select>
+    </div>
+
+    <div class="input-group flex-nowrap">
+        <div class="input-group-prepend">
+            <span class="input-group-text" id="addon-wrapping6">Email</span>
+        </div>
+        <input type="email" class="form-control" id='id_email' aria-label="Email" aria-describedby="addon-wrapping" required>
+    </div>
+
+    <div class="input-group flex-nowrap">
+        <div class="input-group-prepend">
+            <span class="input-group-text" id="addon-wrapping9">Phone</span>
+        </div>
+        <input type="tel" class="form-control" id='id_phone' aria-label="Phone" aria-describedby="addon-wrapping" required>
+    </div>
+
+    <button type="submit" class="btn btn-outline-secondary">Change</button>
+
 </form>
 
 {% endblock content %}

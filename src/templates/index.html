@@ -11,19 +11,19 @@
 
         {% if user.is_authenticated %}
 
-            <h2 class="text-center">First Page</h2>
+            <h2 class="text-center">Hello, {{ user.first_name }}!</h2>
 
-            <form method="post">
+            <form method="post" class="user_info">
 
-                <p>Username: {{ user.username }}</p>
-                <p>First name: {{ user.first_name }}</p>
-                <p>Last name: {{ user.last_name }}</p>
-                <p>Date of birth: {{ user.birth_date }}</p>
-                <p>Country: {{ user.country }}</p>
-                <p>Biography: {{ user.bio }}</p>
-                <p>Contact: {{ user.phone }}</p>
+                <p><span>Username:</span> {{ user.username }}</p>
+                <p><span>First name:</span> {{ user.first_name }}</p>
+                <p><span>Last name:</span> {{ user.last_name }}</p>
+                <p><span>Date of birth:</span> {{ user.birth_date }}</p>
+                <p><span>Country:</span> {{ user.country }}</p>
+                <p><span>Biography:</span> {{ user.bio }}</p>
+                <p><span>Contact:</span> {{ user.phone }}</p>
 
-                <h1>Test : {% change_tag %} </h1>
+                <h4>Test : {% change_tag %} </h4>
         {% else %}
 
                 <p class="text-center"><a href="{% url 'account:login' %}">Login</a> to see information</p>

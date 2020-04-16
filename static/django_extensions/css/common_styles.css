@@ -1,0 +1,43 @@
+body {
+    font-family: 'Comfortaa', cursive;
+    font-size: 20px;
+}
+h2 {
+    margin: 40px 0;
+}
+form {
+    padding: 20px;
+}
+th {
+    text-align: center;
+}
+td {
+    padding: 10px;
+}
+.form_log_in, .form_sing_up, .form_change_profile {
+    margin: 0 auto;
+}
+
+.input-group-prepend {
+    width:30%;
+}
+.input-group-prepend span {
+    width:100%;
+}
+.input-group {
+    margin-bottom: 30px;
+}
+.btn {
+    display: block;
+    margin: 0 auto;
+}
+.user_info {
+    max-width: 40%;
+    margin: 0 auto;
+    text-align: center;
+}
+.user_info p span {
+    font-weight: 700;
+    margin-right: 20px;
+    font-size: 24px;
+}

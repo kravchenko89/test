@@ -6,11 +6,21 @@
 
         <h2 class="text-center">Login</h2>
 
-        <form method="post">
+        <form method="post" class="form_log_in col-12 col-sm-8 col-lg-6 col-xl-4">
           {% csrf_token %}
-            {{ form.as_p }}
-
-          <button type="submit">Login</button>
+            <div class="input-group flex-nowrap">
+              <div class="input-group-prepend">
+                <span class="input-group-text" id="addon-wrapping">Username</span>
+              </div>
+              <input type="text" class="form-control" id='id_username' aria-label="Username" aria-describedby="addon-wrapping" name="username" required>
+            </div>
+            <div class="input-group flex-nowrap">
+              <div class="input-group-prepend">
+                <span class="input-group-text" id="addon-wrapping-2">Password</span>
+              </div>
+              <input type="password" class="form-control" id='id_set_password' aria-label="Username" aria-describedby="addon-wrapping" name="password" required>
+            </div>
+          <button type="submit" class="btn btn-outline-secondary">Login</button>
         </form>
 
     {% endblock content %}
