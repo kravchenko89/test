@@ -33,6 +33,7 @@ INSTALLED_APPS = [
 
     'django_countries',
     'django_extensions',
+    'rest_framework',
 
     'account'
 ]
@@ -41,7 +42,7 @@ MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
-    'django.middleware.csrf.CsrfViewMiddleware',
+    # 'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
@@ -140,7 +141,11 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, "static"),
 ]
+
+
+
 try:
+
     from user_test.settings_local import *  # noqa
 except ImportError:
     print('settings_local.py not found\n' * 5)
